@@ -1,0 +1,11 @@
+2018-04-08 16:27:34,019 - BrowserEngine - INFO - You had select Chrome browser.
+2018-04-08 16:27:34,019 - BrowserEngine - INFO - The test server url is: https://www.baidu.com
+2018-04-08 16:27:40,663 - BrowserEngine - INFO - Starting Chrome browser
+2018-04-08 16:27:43,427 - BrowserEngine - INFO - Open url: https://www.baidu.com 
+2018-04-08 16:27:44,927 - BrowserEngine - INFO - Maximize the current window. 
+2018-04-08 16:27:44,928 - BrowserEngine - INFO - Set implicitly wait 10 seconds. 
+2018-04-08 16:27:44,986 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  kw 
+2018-04-08 16:27:45,236 - BasePage - INFO - Had type ' selenium ' in inputBox
+2018-04-08 16:27:45,510 - BasePage - INFO - Had find the element '  ' seccessful by xpath via value: //*[@id='su'] 
+2018-04-08 16:27:47,033 - BasePage - INFO - The element '  ' was clicked.
+2018-04-08 16:27:49,492 - BasePage - INFO - Had take screenshot and save to folder : /screenshots

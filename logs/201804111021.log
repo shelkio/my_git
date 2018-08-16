@@ -1,0 +1,14 @@
+2018-04-11 10:21:32,219 - BrowserEngine - INFO - You had select Firefox browser.
+2018-04-11 10:21:32,220 - BrowserEngine - INFO - The test server url is: https://www.baidu.com
+2018-04-11 10:21:45,642 - BrowserEngine - INFO - Starting firefox browser.
+2018-04-11 10:21:48,473 - BrowserEngine - INFO - Open url: https://www.baidu.com 
+2018-04-11 10:21:48,497 - BrowserEngine - INFO - Maximize the current window. 
+2018-04-11 10:21:48,618 - BasePage - INFO - The element ' 新闻 ' was clicked.
+2018-04-11 10:21:50,618 - BasePage - INFO - Sleep for 2 seconds
+2018-04-11 10:21:50,648 - BasePage - INFO - Had find the element ' 体育 ' seccessful by xpath via value: //*[@id='channel-all']/div/ul/li[8]/a 
+2018-04-11 10:21:50,720 - BasePage - INFO - The element ' 体育 ' was clicked.
+2018-04-11 10:21:52,721 - BasePage - INFO - Sleep for 2 seconds
+2018-04-11 10:21:52,773 - BasePage - INFO - Had find the element ' 汽车 ' seccessful by xpath via value: //*[@id='channel-all']/div/ul/li[13]/a 
+2018-04-11 10:21:52,921 - BasePage - INFO - The element ' 汽车 ' was clicked.
+2018-04-11 10:21:54,921 - BasePage - INFO - Sleep for 2 seconds
+2018-04-11 10:21:55,153 - BasePage - INFO - Had take screenshot and save to folder : /screenshots

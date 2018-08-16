@@ -1,0 +1,22 @@
+2018-04-08 16:36:08,105 - BrowserEngine - INFO - You had select Chrome browser.
+2018-04-08 16:36:08,107 - BrowserEngine - INFO - The test server url is: https://www.baidu.com
+2018-04-08 16:36:14,161 - BrowserEngine - INFO - Starting Chrome browser
+2018-04-08 16:36:15,937 - BrowserEngine - INFO - Open url: https://www.baidu.com 
+2018-04-08 16:36:17,121 - BrowserEngine - INFO - Maximize the current window. 
+2018-04-08 16:36:17,121 - BrowserEngine - INFO - Set implicitly wait 10 seconds. 
+2018-04-08 16:36:17,157 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  kw 
+2018-04-08 16:36:17,357 - BasePage - INFO - Had type ' selenium ' in inputBox
+2018-04-08 16:36:17,450 - BasePage - INFO - Had find the element '  ' seccessful by xpath via value: //*[@id='su'] 
+2018-04-08 16:36:17,559 - BasePage - INFO - The element '  ' was clicked.
+2018-04-08 16:36:19,937 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-04-08 16:36:23,194 - BrowserEngine - INFO - You had select Chrome browser.
+2018-04-08 16:36:23,194 - BrowserEngine - INFO - The test server url is: https://www.baidu.com
+2018-04-08 16:36:28,819 - BrowserEngine - INFO - Starting Chrome browser
+2018-04-08 16:36:30,375 - BrowserEngine - INFO - Open url: https://www.baidu.com 
+2018-04-08 16:36:31,536 - BrowserEngine - INFO - Maximize the current window. 
+2018-04-08 16:36:31,539 - BrowserEngine - INFO - Set implicitly wait 10 seconds. 
+2018-04-08 16:36:31,579 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  kw 
+2018-04-08 16:36:31,789 - BasePage - INFO - Had type ' python ' in inputBox
+2018-04-08 16:36:31,855 - BasePage - INFO - Had find the element '  ' seccessful by xpath via value: //*[@id='su'] 
+2018-04-08 16:36:31,940 - BasePage - INFO - The element '  ' was clicked.
+2018-04-08 16:36:34,309 - BasePage - INFO - Had take screenshot and save to folder : /screenshots

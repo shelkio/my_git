@@ -1,0 +1,23 @@
+2018-04-09 11:16:09,443 - BrowserEngine - INFO - You had select Firefox browser.
+2018-04-09 11:16:09,443 - BrowserEngine - INFO - The test server url is: https://www.baidu.com
+2018-04-09 11:16:17,835 - BrowserEngine - INFO - Starting firefox browser.
+2018-04-09 11:16:19,032 - BrowserEngine - INFO - Open url: https://www.baidu.com 
+2018-04-09 11:16:19,038 - BrowserEngine - INFO - Maximize the current window. 
+2018-04-09 11:16:19,062 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  kw 
+2018-04-09 11:16:19,246 - BasePage - INFO - Had type ' selenium ' in inputBox
+2018-04-09 11:16:19,328 - BasePage - INFO - Had find the element '  ' seccessful by xpath via value: //*[@id='su'] 
+2018-04-09 11:16:19,418 - BasePage - INFO - The element '  ' was clicked.
+2018-04-09 11:16:21,528 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-04-09 11:16:21,535 - BasePage - INFO - Current page title is selenium_百度搜索
+2018-04-09 11:16:21,559 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  kw 
+2018-04-09 11:16:21,668 - BasePage - INFO - Had type ' python ' in inputBox
+2018-04-09 11:16:21,693 - BasePage - INFO - Had find the element '  ' seccessful by xpath via value: //*[@id='su'] 
+2018-04-09 11:16:21,782 - BasePage - INFO - The element '  ' was clicked.
+2018-04-09 11:16:23,859 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-04-09 11:16:24,368 - BrowserEngine - INFO - You had select Firefox browser.
+2018-04-09 11:16:24,368 - BrowserEngine - INFO - The test server url is: https://www.baidu.com
+2018-04-09 11:16:33,414 - BrowserEngine - INFO - Starting firefox browser.
+2018-04-09 11:16:34,342 - BrowserEngine - INFO - Open url: https://www.baidu.com 
+2018-04-09 11:16:34,348 - BrowserEngine - INFO - Maximize the current window. 
+2018-04-09 11:16:34,359 - BasePage - INFO - Current page title is 百度一下，你就知道
+2018-04-09 11:16:34,378 - BasePage - INFO - Current page title is 百度一下，你就知道

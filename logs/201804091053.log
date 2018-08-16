@@ -1,0 +1,30 @@
+2018-04-09 10:53:32,605 - BrowserEngine - INFO - You had select Firefox browser.
+2018-04-09 10:53:32,605 - BrowserEngine - INFO - The test server url is: https://www.baidu.com
+2018-04-09 10:53:40,576 - BrowserEngine - INFO - Starting firefox browser.
+2018-04-09 10:53:41,822 - BrowserEngine - INFO - Open url: https://www.baidu.com 
+2018-04-09 10:53:41,832 - BrowserEngine - INFO - Maximize the current window. 
+2018-04-09 10:53:41,862 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  kw 
+2018-04-09 10:53:42,052 - BasePage - INFO - Had type ' selenium ' in inputBox
+2018-04-09 10:53:42,180 - BasePage - INFO - Had find the element '  ' seccessful by xpath via value: //*[@id='su'] 
+2018-04-09 10:53:42,269 - BasePage - INFO - The element '  ' was clicked.
+2018-04-09 10:53:44,417 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-04-09 10:53:44,423 - BasePage - INFO - Current page title is selenium_百度搜索
+2018-04-09 10:53:44,444 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  kw 
+2018-04-09 10:53:44,546 - BasePage - INFO - Had type ' python ' in inputBox
+2018-04-09 10:53:44,575 - BasePage - INFO - Had find the element '  ' seccessful by xpath via value: //*[@id='su'] 
+2018-04-09 10:53:44,661 - BasePage - INFO - The element '  ' was clicked.
+2018-04-09 10:53:46,753 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-04-09 10:53:47,201 - BrowserEngine - INFO - You had select Firefox browser.
+2018-04-09 10:53:47,201 - BrowserEngine - INFO - The test server url is: https://www.baidu.com
+2018-04-09 10:53:56,104 - BrowserEngine - INFO - Starting firefox browser.
+2018-04-09 10:53:56,957 - BrowserEngine - INFO - Open url: https://www.baidu.com 
+2018-04-09 10:53:56,963 - BrowserEngine - INFO - Maximize the current window. 
+2018-04-09 10:53:57,033 - BasePage - INFO - The element ' 新闻 ' was clicked.
+2018-04-09 10:53:59,035 - BasePage - INFO - Sleep for 2 seconds
+2018-04-09 10:53:59,061 - BasePage - INFO - Had find the element ' 体育 ' seccessful by xpath via value: //*[@id='channel-all']/div/ul/li[8]/a 
+2018-04-09 10:53:59,118 - BasePage - INFO - The element ' 体育 ' was clicked.
+2018-04-09 10:54:01,118 - BasePage - INFO - Sleep for 2 seconds
+2018-04-09 10:54:01,160 - BasePage - INFO - Had find the element ' 汽车 ' seccessful by xpath via value: //*[@id='channel-all']/div/ul/li[13]/a 
+2018-04-09 10:54:01,313 - BasePage - INFO - The element ' 汽车 ' was clicked.
+2018-04-09 10:54:03,315 - BasePage - INFO - Sleep for 2 seconds
+2018-04-09 10:54:03,519 - BasePage - INFO - Had take screenshot and save to folder : /screenshots

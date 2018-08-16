@@ -1,0 +1,25 @@
+2018-04-09 11:51:19,104 - BrowserEngine - INFO - You had select Firefox browser.
+2018-04-09 11:51:19,104 - BrowserEngine - INFO - The test server url is: https://www.baidu.com
+2018-04-09 11:51:27,200 - BrowserEngine - INFO - Starting firefox browser.
+2018-04-09 11:51:28,173 - BrowserEngine - INFO - Open url: https://www.baidu.com 
+2018-04-09 11:51:28,177 - BrowserEngine - INFO - Maximize the current window. 
+2018-04-09 11:51:28,197 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  kw 
+2018-04-09 11:51:28,394 - BasePage - INFO - Had type ' selenium ' in inputBox
+2018-04-09 11:51:28,480 - BasePage - INFO - Had find the element '  ' seccessful by xpath via value: //*[@id='su'] 
+2018-04-09 11:51:28,578 - BasePage - INFO - The element '  ' was clicked.
+2018-04-09 11:51:30,744 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-04-09 11:51:30,750 - BasePage - INFO - Current page title is selenium_百度搜索
+2018-04-09 11:51:30,772 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  kw 
+2018-04-09 11:51:30,871 - BasePage - INFO - Had type ' python ' in inputBox
+2018-04-09 11:51:30,911 - BasePage - INFO - Had find the element '  ' seccessful by xpath via value: //*[@id='su'] 
+2018-04-09 11:51:31,005 - BasePage - INFO - The element '  ' was clicked.
+2018-04-09 11:51:33,161 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-04-09 11:51:33,700 - BrowserEngine - INFO - You had select Firefox browser.
+2018-04-09 11:51:33,700 - BrowserEngine - INFO - The test server url is: https://www.baidu.com
+2018-04-09 11:51:43,049 - BrowserEngine - INFO - Starting firefox browser.
+2018-04-09 11:51:43,996 - BrowserEngine - INFO - Open url: https://www.baidu.com 
+2018-04-09 11:51:44,005 - BrowserEngine - INFO - Maximize the current window. 
+2018-04-09 11:51:44,012 - BasePage - INFO - Current page title is 百度一下，你就知道
+2018-04-09 11:51:46,020 - BasePage - INFO - Sleep for 2 seconds
+2018-04-09 11:51:46,052 - BasePage - INFO - Current page title is 百度一下，你就知道
+2018-04-09 11:51:48,062 - BasePage - INFO - Sleep for 2 seconds

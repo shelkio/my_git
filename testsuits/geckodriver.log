@@ -1,0 +1,57 @@
+1527497065357	geckodriver	INFO	Listening on 127.0.0.1:63390
+1527497068472	mozprofile::profile	INFO	Using profile path C:\Users\LISHUH~1\AppData\Local\Temp\rust_mozprofile.lgf20E8gqpqT
+1527497068483	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args []
+1527497068501	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63399
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1527497069929	Marionette	INFO	Listening on port 63399
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=py&json=1&p=3&sid=1446_21079_22075&req=2&bs=selenium&pbs=selenium&csor=2&pwd=p&cb=jQuery1102024022657604268494_1527497073658&_=1527497073670, line 1: TypeError: jQuery1102024022657604268494_1527497073658 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=pyt&json=1&p=3&sid=1446_21079_22075&req=2&bs=selenium&pbs=selenium&csor=3&pwd=py&cb=jQuery1102024022657604268494_1527497073658&_=1527497073671, line 1: TypeError: jQuery1102024022657604268494_1527497073658 is not a function
+[Child 8952] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 8952] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+0003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1060003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1060003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1060003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 10340] WARNING: pipe error: 232: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 10340] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 10340] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1060003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1060003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+e::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1060003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+

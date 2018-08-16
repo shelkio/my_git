@@ -1,0 +1,48 @@
+2018-04-09 10:54:23,066 - BrowserEngine - INFO - You had select Firefox browser.
+2018-04-09 10:54:23,068 - BrowserEngine - INFO - The test server url is: https://www.baidu.com
+2018-04-09 10:54:31,270 - BrowserEngine - INFO - Starting firefox browser.
+2018-04-09 10:54:32,267 - BrowserEngine - INFO - Open url: https://www.baidu.com 
+2018-04-09 10:54:32,276 - BrowserEngine - INFO - Maximize the current window. 
+2018-04-09 10:54:32,288 - BasePage - INFO - Current page title is 百度一下，你就知道
+2018-04-09 10:54:37,819 - BrowserEngine - INFO - You had select Firefox browser.
+2018-04-09 10:54:37,821 - BrowserEngine - INFO - The test server url is: https://www.baidu.com
+2018-04-09 10:54:45,934 - BrowserEngine - INFO - Starting firefox browser.
+2018-04-09 10:54:47,042 - BrowserEngine - INFO - Open url: https://www.baidu.com 
+2018-04-09 10:54:47,055 - BrowserEngine - INFO - Maximize the current window. 
+2018-04-09 10:54:47,084 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  kw 
+2018-04-09 10:54:47,263 - BasePage - INFO - Had type ' selenium ' in inputBox
+2018-04-09 10:54:47,358 - BasePage - INFO - Had find the element '  ' seccessful by xpath via value: //*[@id='su'] 
+2018-04-09 10:54:47,443 - BasePage - INFO - The element '  ' was clicked.
+2018-04-09 10:54:49,585 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-04-09 10:54:49,591 - BasePage - INFO - Current page title is selenium_百度搜索
+2018-04-09 10:54:49,611 - BasePage - INFO - Had find the element '  ' seccessful by id via value:  kw 
+2018-04-09 10:54:49,711 - BasePage - INFO - Had type ' python ' in inputBox
+2018-04-09 10:54:49,736 - BasePage - INFO - Had find the element '  ' seccessful by xpath via value: //*[@id='su'] 
+2018-04-09 10:54:49,825 - BasePage - INFO - The element '  ' was clicked.
+2018-04-09 10:54:51,930 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-04-09 10:54:52,395 - BrowserEngine - INFO - You had select Firefox browser.
+2018-04-09 10:54:52,395 - BrowserEngine - INFO - The test server url is: https://www.baidu.com
+2018-04-09 10:55:00,661 - BrowserEngine - INFO - Starting firefox browser.
+2018-04-09 10:55:01,790 - BrowserEngine - INFO - Open url: https://www.baidu.com 
+2018-04-09 10:55:01,796 - BrowserEngine - INFO - Maximize the current window. 
+2018-04-09 10:55:01,805 - BasePage - INFO - Current page title is 百度一下，你就知道
+2018-04-09 10:55:02,243 - BrowserEngine - INFO - You had select Firefox browser.
+2018-04-09 10:55:02,244 - BrowserEngine - INFO - The test server url is: https://www.baidu.com
+2018-04-09 10:55:10,256 - BrowserEngine - INFO - Starting firefox browser.
+2018-04-09 10:55:11,426 - BrowserEngine - INFO - Open url: https://www.baidu.com 
+2018-04-09 10:55:11,430 - BrowserEngine - INFO - Maximize the current window. 
+2018-04-09 10:55:11,516 - BasePage - INFO - The element ' 新闻 ' was clicked.
+2018-04-09 10:55:13,516 - BasePage - INFO - Sleep for 2 seconds
+2018-04-09 10:55:13,562 - BasePage - INFO - Had find the element ' 体育 ' seccessful by xpath via value: //*[@id='channel-all']/div/ul/li[8]/a 
+2018-04-09 10:55:13,638 - BasePage - INFO - The element ' 体育 ' was clicked.
+2018-04-09 10:55:15,641 - BasePage - INFO - Sleep for 2 seconds
+2018-04-09 10:55:15,664 - BasePage - INFO - Had find the element ' 汽车 ' seccessful by xpath via value: //*[@id='channel-all']/div/ul/li[13]/a 
+2018-04-09 10:55:15,806 - BasePage - INFO - The element ' 汽车 ' was clicked.
+2018-04-09 10:55:17,809 - BasePage - INFO - Sleep for 2 seconds
+2018-04-09 10:55:18,032 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-04-09 10:55:18,780 - BrowserEngine - INFO - You had select Firefox browser.
+2018-04-09 10:55:18,780 - BrowserEngine - INFO - The test server url is: https://www.baidu.com
+2018-04-09 10:55:26,838 - BrowserEngine - INFO - Starting firefox browser.
+2018-04-09 10:55:27,782 - BrowserEngine - INFO - Open url: https://www.baidu.com 
+2018-04-09 10:55:27,789 - BrowserEngine - INFO - Maximize the current window. 
+2018-04-09 10:55:27,799 - BasePage - INFO - Current page title is 百度一下，你就知道
