@@ -24,7 +24,7 @@ fp = file(HtmlFile,"wb")
 suite = unittest.TestLoader().discover("testsuits")
 
 
-123
+1234
 if __name__ == '__main__':
     #初始化一个HTMLTestRunner实例对象，用来生成报告
     runner = HTMLTestRunner(stream=fp,title=u"测试项目报告",description=u"用例测试情况")
